@@ -1,0 +1,85 @@
+.Modal {
+    width: 100%;
+    height: 100vh;
+
+    position: fixed;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+}
+
+.Modal::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+    background: rgba(0, 0, 0, 0.6);
+
+    z-index: -1;
+}
+
+.Off {
+    display: none;
+}
+
+.Modal .Content {
+    width: 1200px;
+    height: 700px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    background: white;
+}
+
+.Block {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Modal .Content .Left {
+}
+
+.Modal .Content .Left img {
+    width: 250px;
+}
+
+.Modal .Content .Right {
+    flex-direction: column;
+}
+
+.Modal .Content .Right span {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Modal .Content .Right .Description textarea {
+    width: 100%;
+    height: 250px;
+}
+
+@media screen and (max-width: 1200px) {
+    .Modal .Content {
+        width: 768px;
+        height: 70%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .Modal .Content {
+        width: 480px;
+        height: 70%;
+    }
+    .Modal .Content .Left img {
+        width: 70%;
+    }
+}
