@@ -5,7 +5,7 @@
 - <a href="https://evyz.github.io/react-google-books/">Результат</a>
 
 ## СТЕК:
- - React
+ - <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png">React
  - Mobx
  - Axios
 
