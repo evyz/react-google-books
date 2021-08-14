@@ -5,8 +5,9 @@
 - <a href="https://evyz.github.io/react-google-books/">Результат</a>
 
 ## СТЕК:
+
  - <img width="19px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"> React
- - Mobx
+ - <img width="19px" src="https://static-00.iconduck.com/assets.00/mobx-icon-512x512-h6qs5zuq.png" alt="https://static-00.iconduck.com/assets.00/mobx-icon-512x512-h6qs5zuq.png"> Mobx
  - Axios
 
 <a href="https://hh.ru/resume/6c646829ff08f4e8e20039ed1f487639793435" target="_blank">Моё резюме</a>
