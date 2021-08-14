@@ -8,7 +8,8 @@
 
  - <img width="19px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"> React
  - <img width="19px" src="https://static-00.iconduck.com/assets.00/mobx-icon-512x512-h6qs5zuq.png" alt="https://static-00.iconduck.com/assets.00/mobx-icon-512x512-h6qs5zuq.png"> Mobx
- - Axios
+ - 
+ - <img width="19px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGlN3RJvKmwEg/company-logo_200_200/0/1571253448818?e=2159024400&v=beta&t=VYfrSozq3kSw5_404tR4xYFMH0uFQNmQNrweQcJkbGw" alt="https://media-exp1.licdn.com/dms/image/C4E0BAQGlN3RJvKmwEg/company-logo_200_200/0/1571253448818?e=2159024400&v=beta&t=VYfrSozq3kSw5_404tR4xYFMH0uFQNmQNrweQcJkbGw">  Axios
 
 <a href="https://hh.ru/resume/6c646829ff08f4e8e20039ed1f487639793435" target="_blank">Моё резюме</a>
 
